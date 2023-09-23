@@ -13,13 +13,13 @@ public class Resident {
     @Column(name = "name")
     private String name;
 
-@ManyToOne
+    @ManyToOne
     @JoinColumn(name = "id_apartments")
     private Apartment apartment;
 
-public Resident() {
+    public Resident() {
 
-}
+    }
 
     public Integer getId() {
         return id;
