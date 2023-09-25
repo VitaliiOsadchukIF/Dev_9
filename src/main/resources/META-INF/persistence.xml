@@ -17,6 +17,7 @@
             <property name="hibernate.format_sql" value="true"/>
             <property name="hibernate.transaction.jta.platform"
                       value="org.hibernate.service.jta.platform.internal.JtaPlatformInitiator.GlassFish"/>
+            <property name="hibernate.dialect" value="org.hibernate.dialect.MySQLDialect"/>
         </properties>
 
 

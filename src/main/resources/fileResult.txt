@@ -1,0 +1,206 @@
+[ResidentInfo{id=30
+name='Марченко Юрій Андрійович'
+email='Марченко_Андрійович_Андрійович_30@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=30
+apartmentArea=105.8}, ResidentInfo{id=28
+name='Мартиненко Віталій Васильович'
+email='Мартиненко_Васильович_Васильович_28@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=28
+apartmentArea=125.4}, ResidentInfo{id=27
+name='Попова Анастасія Олегівна'
+email='Попова_Олегівна_Олегівна_27@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=27
+apartmentArea=85.7}, ResidentInfo{id=25
+name='Сергієнко Ольга Юріївна'
+email='Сергієнко_Юріївна_Юріївна_25@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=25
+apartmentArea=76.5}, ResidentInfo{id=24
+name='Кузьменко Віталій Іванович'
+email='Кузьменко_Іванович_Іванович_24@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=24
+apartmentArea=110.6}, ResidentInfo{id=23
+name='Максименко Олександр Олегович'
+email='Максименко_Олегович_Олегович_23@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=23
+apartmentArea=98.3}, ResidentInfo{id=22
+name='Пономаренко Тетяна Володимирівна'
+email='Пономаренко_Володимирівна_Володимирівна_22@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=22
+apartmentArea=132.1}, ResidentInfo{id=21
+name='Захарченко Володимир Михайлович'
+email='Захарченко_Михайлович_Михайлович_21@gmail.com'
+buildingAddress='Nezalezhnosti, 1'
+apartmentNumber=21
+apartmentArea=70.9}, ResidentInfo{id=78
+name='Пономаренко Ігор Олегович'
+email='Пономаренко_Олегович_Олегович_78@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=48
+apartmentArea=97.4}, ResidentInfo{id=77
+name='Захарченко Микола Вікторович'
+email='Захарченко_Вікторович_Вікторович_77@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=47
+apartmentArea=120.3}, ResidentInfo{id=75
+name='Кузьменко Марія Іванівна'
+email='Кузьменко_Іванівна_Іванівна_75@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=45
+apartmentArea=133.2}, ResidentInfo{id=74
+name='Поліщук Олександр Васильович'
+email='Поліщук_Васильович_Васильович_74@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=44
+apartmentArea=101.7}, ResidentInfo{id=72
+name='Гриценко Тетяна Петрівна'
+email='Гриценко_Петрівна_Петрівна_72@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=42
+apartmentArea=74.2}, ResidentInfo{id=71
+name='Марченко Віктор Володимирович'
+email='Марченко_Володимирович_Володимирович_71@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=41
+apartmentArea=106.1}, ResidentInfo{id=68
+name='Міщенко Ірина Олександрівна'
+email='Міщенко_Олександрівна_Олександрівна_68@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=38
+apartmentArea=80.3}, ResidentInfo{id=65
+name='Павленко Інна Сергіївна'
+email='Павленко_Сергіївна_Сергіївна_65@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=35
+apartmentArea=123.7}, ResidentInfo{id=62
+name='Максимова Тетяна Олегівна'
+email='Максимова_Олегівна_Олегівна_62@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=32
+apartmentArea=78.1}, ResidentInfo{id=60
+name='Савін Олег Григорович'
+email='Савін_Григорович_Григорович_60@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=30
+apartmentArea=100.4}, ResidentInfo{id=59
+name='Литвинова Валентина Павлівна'
+email='Литвинова_Павлівна_Павлівна_59@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=29
+apartmentArea=125.6}, ResidentInfo{id=58
+name='Кузьменко Ігор Сергійович'
+email='Кузьменко_Сергійович_Сергійович_58@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=28
+apartmentArea=87.6}, ResidentInfo{id=55
+name='Коломієць Ольга Михайлівна'
+email='Коломієць_Михайлівна_Михайлівна_55@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=25
+apartmentArea=114.3}, ResidentInfo{id=54
+name='Короленко Максим Андрійович'
+email='Короленко_Андрійович_Андрійович_54@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=24
+apartmentArea=76.9}, ResidentInfo{id=53
+name='Марченко Ганна Сергіївна'
+email='Марченко_Сергіївна_Сергіївна_53@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=23
+apartmentArea=105.0}, ResidentInfo{id=47
+name='Коломієць Олександра Андріївна'
+email='Коломієць_Андріївна_Андріївна_47@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=17
+apartmentArea=120.3}, ResidentInfo{id=44
+name='Савіна Надія Павлівна'
+email='Савіна_Павлівна_Павлівна_44@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=14
+apartmentArea=101.7}, ResidentInfo{id=42
+name='Литвинов Василь Михайлович'
+email='Литвинов_Михайлович_Михайлович_42@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=12
+apartmentArea=74.2}, ResidentInfo{id=40
+name='Бондарчук Андрій Олегович'
+email='Бондарчук_Олегович_Олегович_40@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=10
+apartmentArea=92.0}, ResidentInfo{id=39
+name='Бєлова Лідія Олегівна'
+email='Бєлова_Олегівна_Олегівна_39@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=9
+apartmentArea=128.8}, ResidentInfo{id=36
+name='Міщенко Валерій Іванович'
+email='Міщенко_Іванович_Іванович_36@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=6
+apartmentArea=96.9}, ResidentInfo{id=32
+name='Овчаренко Ольга Олександрівна'
+email='Овчаренко_Олександрівна_Олександрівна_32@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=2
+apartmentArea=78.1}, ResidentInfo{id=31
+name='Приходько Андрій Ігорович'
+email='Приходько_Ігорович_Ігорович_31@gmail.com'
+buildingAddress='Nezalezhnosti, 3'
+apartmentNumber=1
+apartmentArea=135.0}, ResidentInfo{id=98
+name='Пономаренко Сергій Ігорович'
+email='Пономаренко_Ігорович_Ігорович_98@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=18
+apartmentArea=120.3}, ResidentInfo{id=96
+name='Левченко Анна Сергіївна'
+email='Левченко_Сергіївна_Сергіївна_96@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=16
+apartmentArea=133.2}, ResidentInfo{id=94
+name='Поліщук Тетяна Павлівна'
+email='Поліщук_Павлівна_Павлівна_94@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=14
+apartmentArea=118.5}, ResidentInfo{id=93
+name='Савченко Володимир Васильович'
+email='Савченко_Васильович_Васильович_93@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=13
+apartmentArea=74.2}, ResidentInfo{id=91
+name='Гончаренко Ігор Іванович'
+email='Гончаренко_Іванович_Іванович_91@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=11
+apartmentArea=92.0}, ResidentInfo{id=89
+name='Кравчук Ганна Володимирівна'
+email='Кравчук_Володимирівна_Володимирівна_89@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=9
+apartmentArea=80.3}, ResidentInfo{id=86
+name='Марченко Ганна Андріївна'
+email='Марченко_Андріївна_Андріївна_86@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=6
+apartmentArea=123.7}, ResidentInfo{id=85
+name='Міщенко Марія Валеріївна'
+email='Міщенко_Валеріївна_Валеріївна_85@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=5
+apartmentArea=89.4}, ResidentInfo{id=84
+name='Гладков Сергій Геннадійович'
+email='Гладков_Геннадійович_Геннадійович_84@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=4
+apartmentArea=112.2}, ResidentInfo{id=83
+name='Коломієць Ганна Миколаївна'
+email='Коломієць_Миколаївна_Миколаївна_83@gmail.com'
+buildingAddress='Nezalezhnosti, 5'
+apartmentNumber=3
+apartmentArea=78.1}]
