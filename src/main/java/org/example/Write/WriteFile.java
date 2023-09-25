@@ -13,8 +13,8 @@ public class WriteFile {
 
     public static void write(String input) {
         try (BufferedWriter writer = new BufferedWriter(new FileWriter(PATH_FILE))) {
-writer.write(input);
-        }catch (IOException e) {
+            writer.write(input);
+        } catch (IOException e) {
             e.printStackTrace();
         }
     }

@@ -23,12 +23,13 @@ public class ResidentInfo {
     @Override
     public String toString() {
         return "ResidentInfo{" +
-                "id=" + id +
-                ", name='" + name + '\'' +
-                ", email='" + email + '\'' +
-                ", buildingAddress='" + buildingAddress + '\'' +
-                ", apartmentNumber=" + apartmentNumber +
-                ", apartmentArea=" + apartmentArea +
+                "id=" + id + '\n' +
+                "name='" + name + '\'' + '\n' +
+                "email='" + email + '\'' + '\n' +
+                "buildingAddress='" + buildingAddress + '\'' + '\n' +
+                "apartmentNumber=" + apartmentNumber + '\n' +
+                "apartmentArea=" + apartmentArea +
                 '}';
     }
+
 }

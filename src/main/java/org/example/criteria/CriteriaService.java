@@ -1,5 +1,6 @@
 package org.example.criteria;
 
+
 import jakarta.persistence.EntityManager;
 import jakarta.persistence.criteria.*;
 import org.example.model.Apartment;
@@ -21,7 +22,7 @@ public class CriteriaService {
         Root<Owner> ownerRoot = criteriaQuery.from(Owner.class);
 
         Join<Owner, Resident> residentJoin = ownerRoot.join("apartment");
-        Join<Resident, Apartment> apartmentJoin = residentJoin.join("apartment");
+        Join<Owner, Apartment> apartmentJoin = ownerRoot.join("apartment");
         Join<Apartment, Building> buildingJoin = apartmentJoin.join("idBuildings");
 
         criteriaQuery.select(criteriaBuilder.construct(
